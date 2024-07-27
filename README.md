@@ -38,6 +38,16 @@ To run this project, open the `index.html` file in your web browser. Ensure that
 
 - **Navigate to the project directory:** `cd Weather_Watch_App`
 
+## Usage
+
+- Enter the name of the city in the search bar and press enter.
+- The current weather information for the specified city will be displayed.
+
+## Contributing
+
+- Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
+
+
 
 # Pages Screenshort
 
